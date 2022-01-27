@@ -22,6 +22,12 @@ tether 2.0.0 (https://github.com/shipshapecode/tether)
 
 theme_styles.html (modified) from https://github.com/bofeng/
 
+[Download latest
+release](https://github.com/hoabut/CheetahTemplatePortable/releases/tag/v3.2.6.post1_Dev_Test_1)
+
+[Go to the Cheetah Template Portable
+Homepage](https://portableapps.com/node/65597)
+
 All of the above components have been integrated and packaged with a
 PortableApps.com launcher with the appropriate PortableAppsFormat as
 listed above.
