@@ -6,13 +6,17 @@ launcher so you can use it from a cloud folder, portable drive, or local
 folder without needing to install it on each PC. Learn more about
 [Cheetah Template](https://github.com/CheetahTemplate3/cheetah3) ...
 
-Components in this release (3.2.6.post1 Dev Test 1):
+October 2, 2022 release:
+
+Notables in this release: PortableAppsFormat 3.7
+
+Components in this release (3.2.6.post1 Dev Test 1 rev 1):
 
 Cheetah Template 3.2.6.post1 (64 bit) (https://cheetahtemplate.org/)
 
 Python 3.8.10 (64 bit) (https://github.com/winpython)
 
-PortableAppsFormat 3.5 (https://portableapps.com/)
+PortableAppsFormat 3.7 (https://portableapps.com/)
 
 Bootstrap 4.6.1 (https://github.com/twbs/bootstrap)
 
